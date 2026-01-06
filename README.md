@@ -30,6 +30,9 @@ Esta wiki está estruturada para fornecer uma visão completa da organização m
 ### 🧠 Base de Conhecimento
 *Fundamentação teórica, pesquisa de modelos e referências científicas.*
 
+* **Estatística:** 
+    * [Regressão Linear](docs/03-base-conhecimento/estatistica/teste-hipotese.md)
+
 * **Machine Learning:** 
     * [Árvore de Decisão](docs/03-base-conhecimento/machine-learning/arvore-decisao.md)
     * [Random Forest](docs/03-base-conhecimento/machine-learning/random-forest.md) 
@@ -37,12 +40,14 @@ Esta wiki está estruturada para fornecer uma visão completa da organização m
     * [XGBoost](docs/03-base-conhecimento/machine-learning/xgboost.md) 
 
 * **Deep Learning:** 
-    * [Redes Neural Convolucional](docs/03-base-conhecimento/deep-learning/rnn.md)
+    * [Autoencoder](docs/03-base-conhecimento/deep-learning/autoencoder.md)
+    * [LSTM (Long Short-Term Memory)](docs/03-base-conhecimento/deep-learning/lstm.md)
+    * [MLP (Multi-Layer Perceptron)](docs/03-base-conhecimento/deep-learning/mlp.md)
+    * [Transformers](docs/03-base-conhecimento/deep-learning/transformer.md)
 
-* **Estatística:** 
-    * [Regressão Linear](docs/03-base-conhecimento/estatistica/teste-hipotese.md)
 
 * [**Referências e leituras complementares**](docs/03-base-conhecimento/leituras-complementares.md)
+    * [Glossário](docs\03-base-conhecimento\glossario.md)
 
 ---
 
