@@ -1,0 +1,3 @@
+A Fábrica de IA é uma iniciativa do Governo do Estado do Piauí, por meio da Secretaria de Inteligência Artificial, Economia Digital, Ciência e Tecnologia (SIA/PI), em parceria com a UFPI e a FAPEPI, com o objetivo de desenvolver, implantar e manter soluções baseadas em Inteligência Artificial (IA) voltadas para a gestão pública.
+
+O projeto integra os pilares de pesquisa aplicada, inovação tecnológica e formação de talentos, adotando práticas modernas de Engenharia de Software, Aprendizagem de Máquina e MLOps.
